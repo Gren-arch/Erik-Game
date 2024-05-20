@@ -245,10 +245,17 @@ MonoBehaviour:
     m_Value: 1
   upperHemisphereLuxValue:
     m_OverrideState: 1
+<<<<<<< Updated upstream
     m_Value: 1.3744829
   upperHemisphereLuxColor:
     m_OverrideState: 1
     m_Value: {x: 0.42467514, y: 0.46007606, z: 0.5}
+=======
+    m_Value: 32.710896
+  upperHemisphereLuxColor:
+    m_OverrideState: 1
+    m_Value: {x: 0.5, y: 0.4469612, z: 0.48601052}
+>>>>>>> Stashed changes
   desiredLuxValue:
     m_OverrideState: 0
     m_Value: 20000
