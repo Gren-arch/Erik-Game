@@ -513,16 +513,16 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 11
+    m_Value: -3.82
   multiplier:
     m_OverrideState: 0
     m_Value: 1
   upperHemisphereLuxValue:
     m_OverrideState: 1
-    m_Value: 32.71092
+    m_Value: 32.710896
   upperHemisphereLuxColor:
     m_OverrideState: 1
-    m_Value: {x: 0.5, y: 0.4469614, z: 0.4860103}
+    m_Value: {x: 0.5, y: 0.4469612, z: 0.48601052}
   desiredLuxValue:
     m_OverrideState: 0
     m_Value: 20000
